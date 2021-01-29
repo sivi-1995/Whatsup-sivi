@@ -9,3 +9,5 @@ Author : Sivi
 3.Last Seen Code.
 
 4.Attachments (Image, Audio , Video )Code
+
+5.Hiding the Last seen
