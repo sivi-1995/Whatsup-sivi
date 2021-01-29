@@ -11,3 +11,7 @@ Author : Sivi
 4.Attachments (Image, Audio , Video )Code
 
 5.Hiding the Last seen
+
+6.Adding the audio call feature
+
+Adding the video call feature
